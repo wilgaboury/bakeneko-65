@@ -15410,7 +15410,7 @@
 			(size 1.2 1.8)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.208333)
-			(uuid "dd4c6f4a-7e4d-466a-82cd-6effe4b0dd8c")
+			(uuid "7b79e44d-0ae7-4f01-8506-f2c9cdfdcdea")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.step"
@@ -15529,7 +15529,7 @@
 			(uuid "25293130-9f8f-48e7-9681-b0504b54e656")
 			(effects
 				(font
-					(size 0.75 0.75)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 				(justify left mirror)
@@ -15541,7 +15541,7 @@
 			(uuid "53a8f978-3601-4f02-80f6-03ec40ff6cc0")
 			(effects
 				(font
-					(size 0.75 0.75)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 				(justify right mirror)
@@ -15553,7 +15553,7 @@
 			(uuid "54530068-4a04-40c5-8331-5ee7e86c9211")
 			(effects
 				(font
-					(size 0.75 0.75)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 				(justify left mirror)
@@ -15565,7 +15565,7 @@
 			(uuid "b914d803-5e95-485b-8c53-99b977bebd8a")
 			(effects
 				(font
-					(size 0.75 0.75)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 				(justify right mirror)
@@ -15577,7 +15577,7 @@
 			(uuid "c8f40b50-b787-44fb-918f-142ccd784129")
 			(effects
 				(font
-					(size 0.75 0.75)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 				(justify right mirror)
@@ -15589,7 +15589,7 @@
 			(uuid "f6ca3055-ab1a-4b39-8877-bd46b76ec784")
 			(effects
 				(font
-					(size 0.75 0.75)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 				(justify left mirror)
@@ -16530,7 +16530,7 @@
 			(net 1 "GND")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "45e2a38a-a50d-42ff-a8bf-be248bc40070")
+			(uuid "1610c972-1571-4c29-ab03-1bcd9040d7b8")
 		)
 		(pad "2" smd rect
 			(at -3.15 -1.9)
@@ -16548,7 +16548,7 @@
 			(net 79 "RESET")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "96932b81-5bd9-4c8f-b94c-b0b2276bb007")
+			(uuid "3b97dd00-76af-4eaf-a913-7d1c4ccb939e")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_TL3342.step"
